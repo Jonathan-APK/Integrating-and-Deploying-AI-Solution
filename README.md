@@ -1,1 +1,1 @@
-# NUS-ISS_Integrating-and-Deploying-AI-Solutions
+Integrating-and-Deploying-AI-Solutions
